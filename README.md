@@ -5,6 +5,7 @@ establishing a transparent peer-reviewed framework for pricing and risk
 analysis that can serve as
 * a benchmarking, validation, training, teaching reference 
 * an extensible foundation for tailored risk solutions
+* 
 
 Open Source Risk Engine (ORE) provides
 * contemporary risk analytics and value adjustments (XVAs) 
