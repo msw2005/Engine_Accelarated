@@ -1,4 +1,4 @@
-# ORE
+# CORE
 
 The [Open Source Risk](http://opensourcerisk.org) project aims at
 establishing a transparent peer-reviewed framework for pricing and risk
